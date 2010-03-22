@@ -1,0 +1,9 @@
+Format is tab separated analyze preferences.
+Name                          	Value
+beholdButton	False
+commentButton	False
+skeinviewButton	False
+statisticButton	False
+vectorwriteButton	False
+Open File to be Analyzed	/media/A163-53CD/g1tray.gcode
+windowPositionAnalyze Preferences	409+74

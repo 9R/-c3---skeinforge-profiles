@@ -1,0 +1,9 @@
+Format is tab separated skeinforge preferences.
+Name                          	Value
+analyzeButton	False
+craftButton	False
+descriptionButton	False
+polyfileButton	False
+profileButton	False
+Open File to be Skeinforged	/media/DRAYDE SD/adapter1.stl
+windowPositionSkeinforge Preferences	202+505

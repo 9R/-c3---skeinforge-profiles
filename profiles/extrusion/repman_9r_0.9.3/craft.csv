@@ -1,0 +1,24 @@
+Format is tab separated craft preferences.
+Name                          	Value
+carveButton	False
+clipButton	False
+combButton	False
+coolButton	False
+exportButton	False
+fillButton	False
+filletButton	False
+homeButton	False
+hopButton	False
+insetButton	False
+lashButton	False
+multiplyButton	False
+oozebaneButton	False
+prefaceButton	False
+raftButton	False
+speedButton	False
+stretchButton	False
+towerButton	False
+unpauseButton	False
+wipeButton	False
+Open File to be Crafted	/home/kili/Desktop/C:\fakepath\Dock_export.gcode
+windowPositionCraft Preferences	313+227

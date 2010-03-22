@@ -1,0 +1,9 @@
+Format is tab separated skeinforge preferences.
+Name                          	Value
+analyzeButton	False
+craftButton	False
+descriptionButton	False
+polyfileButton	False
+profileButton	False
+Open File to be Skeinforged	
+windowPositionSkeinforge Preferences	3+41

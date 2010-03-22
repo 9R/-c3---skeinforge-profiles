@@ -1,0 +1,10 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	3+40
+WindowVisibilities
+Open File for Skeinforge	/home/kili/Daten/ccc/reprap/models/build-benchmark-v1-0.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
