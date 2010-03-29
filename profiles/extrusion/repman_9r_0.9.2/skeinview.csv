@@ -3,7 +3,7 @@ Name                          	Value
 Activate Skeinview	True
 Display Line Text when Mouse Moves	True
 Draw Arrows	True
-Open File to Skeinview	/media/DRAYDE SD/a1.gcode
+Open File to Skeinview	/media/A163-53CD/ehaserl/ehaserl_6_export.gcode
 Export File Extension:	
 Export Postscript Program:	gimp
 Go Around Extruder Off Travel	False
@@ -13,4 +13,4 @@ Screen Horizontal Inset (pixels):	100
 Screen Vertical Inset (pixels):	50
 Slide Show Rate (layers/second):	1.0
 windowPositionSkeinview Dynamic Preferences	12+93
-windowPositionSkeinview Preferences	15+108
+windowPositionSkeinview Preferences	18+125
