@@ -1,0 +1,9 @@
+Format is tab separated skeinforge preferences.
+Name                          	Value
+analyzeButton	False
+craftButton	False
+descriptionButton	False
+polyfileButton	False
+profileButton	False
+Open File to be Skeinforged	/home/kili/Daten/ccc/reprap/models/ehaserl/ehaserl_9.1.stl
+windowPositionSkeinforge Preferences	520+510
