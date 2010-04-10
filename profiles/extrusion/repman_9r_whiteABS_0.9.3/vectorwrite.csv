@@ -1,7 +1,7 @@
 Format is tab separated vectorwrite preferences.
 Name                          	Value
 Activate Vectorwrite	False
-Open File to Write Vector Graphics for	
+Open File to Write Vector Graphics for	/home/kili/Desktop/reprap/tmp/mazeA.gcode
 Layers From (index):	0
 Layers To (index):	999999999
-windowPositionVectorwrite Preferences	0+0
+windowPositionVectorwrite Preferences	3+40

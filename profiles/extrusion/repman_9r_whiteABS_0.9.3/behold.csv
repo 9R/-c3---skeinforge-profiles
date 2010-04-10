@@ -8,7 +8,7 @@ From the Bottom	True
 From the Top	False
 Display Line Text when Mouse Moves	True
 Draw Arrows	False
-Open File to Behold	/home/kili/Daten/ccc/reprap/models/9rmug_export.gcode
+Open File to Behold	/home/kili/Desktop/reprap/tmp/mazeA.gcode
 Export File Extension:	
 Export Postscript Program:	gimp
 Go Around Extruder Off Travel	False
@@ -33,4 +33,4 @@ Width of X Axis (pixels):	5
 Width of Y Axis (pixels):	5
 Width of Z Axis (pixels):	5
 windowPositionBehold Dynamic Preferences	9+40
-windowPositionBehold Preferences	6+40
+windowPositionBehold Preferences	9+40
