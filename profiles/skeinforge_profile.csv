@@ -1,7 +1,6 @@
 Format is tab separated skeinforge profile settings.
 Name                          	Value
-WindowPosition	0+200
-WindowVisibilities
+WindowPosition	310+238
 cutting	False
 extrusion	True
 milling	False

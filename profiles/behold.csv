@@ -1,7 +1,6 @@
 Format is tab separated behold settings.
 Name                          	Value
 WindowPosition	0+0
-WindowVisibilities
 Open File for Behold	
 Activate Behold	True
 Frame List
@@ -15,19 +14,19 @@ From the Bottom	False
 From the Top	True
 Draw Arrows	False
 Go Around Extruder Off Travel	False
-Layer (index):	0
+Layer (index):	3
 Layer Extra Span (integer):	912345678
-Line (index):	181
+Line (index):	14
 Display Line	False
 View Move	True
 View Rotate	False
 Number of Fill Bottom Layers (integer):	1
 Number of Fill Top Layers (integer):	1
-Scale (pixels per millimeter):	15.0
-Screen Horizontal Inset (pixels):	100
-Screen Vertical Inset (pixels):	200
-Viewpoint Latitude (degrees):	17.4
-Viewpoint Longitude (degrees):	233.4
+Scale (pixels per millimeter):	30.0
+Screen Horizontal Inset (pixels):	130
+Screen Vertical Inset (pixels):	229
+Viewpoint Latitude (degrees):	87.2
+Viewpoint Longitude (degrees):	26.3
 Width of Axis Negative Side (pixels):	2
 Width of Axis Positive Side (pixels):	6
 Width of Fill Bottom Thread (pixels):	2

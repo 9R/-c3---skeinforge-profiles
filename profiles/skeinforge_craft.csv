@@ -1,7 +1,6 @@
 Format is tab separated skeinforge craft settings.
 Name                          	Value
 WindowPosition	0+0
-WindowVisibilities
 Open File for Craft	
 carve	False
 chamber	False
@@ -16,7 +15,7 @@ drill	False
 export	False
 feed	False
 fill	False
-fillet	False
+fillet	True
 flow	False
 home	False
 hop	False
@@ -34,7 +33,7 @@ raft	False
 speed	False
 splodge	False
 stretch	False
-temperature	True
+temperature	False
 tower	False
 unpause	False
 whittle	False

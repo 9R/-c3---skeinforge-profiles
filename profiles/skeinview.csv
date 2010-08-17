@@ -1,7 +1,6 @@
 Format is tab separated skeinview settings.
 Name                          	Value
 WindowPosition	0+0
-WindowVisibilities
 Open File for Skeinview	
 Activate Skeinview	True
 Frame List
@@ -9,9 +8,9 @@ Animation Line Quickening (ratio):	1.0
 Animation Slide Show Rate (layers/second):	2.0
 Draw Arrows	True
 Go Around Extruder Off Travel	False
-Layer (index):	0
+Layer (index):	20
 Layer Extra Span (integer):	0
-Line (index):	0
+Line (index):	583
 Display Line	True
 View Move	False
 Numeric Pointer	True

@@ -1,4 +1,4 @@
-Format is tab separated extrusion preferences.
+Format is tab separated extrusion settings.
 Name                          	Value
-windowPositionExtrusion Preferences	9+442
-Profile Selection:	repman_9r_whiteABS_0.9.3
+WindowPosition	0+400
+Profile Selection:	repman_9r_ng_0.1
