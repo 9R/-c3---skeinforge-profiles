@@ -9,5 +9,5 @@ Do Not Change Output	True
 binary_16_byte	False
 gcode_step	False
 gcode_small	False
-File Extension:	BFB
+File Extension:	bfb
 Save Penultimate Gcode	False
